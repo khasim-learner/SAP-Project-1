@@ -13,7 +13,6 @@
                     <Collection>
                         <PropertyPath>ProductID</PropertyPath>
                         <PropertyPath>UnitsInStock</PropertyPath>
-                        <PropertyPath>CategoryID</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
